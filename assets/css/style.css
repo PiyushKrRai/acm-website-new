@@ -10,7 +10,7 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color: #444444;
+  color: #004060;
 }
 
 a {
@@ -19,7 +19,7 @@ a {
 }
 
 a:hover {
-  color: #545454;
+  color: #0079a9;
   text-decoration: none;
 }
 
@@ -507,7 +507,7 @@ section {
 }
 
 .section-title h3 span {
-  color: #606060;
+  color: #0079a9;
 }
 
 .section-title p {
@@ -897,7 +897,8 @@ section {
   position: relative;
   background: #fff;
   border-radius: 10px;
-  min-height: 400px;
+  min-height: 500px;
+  max-height: 500px;
 }
 
 .blogs .blog-item .blog-img {
