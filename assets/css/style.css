@@ -75,7 +75,7 @@ h6 {
 }
 
 #header .logo {
-  font-size: 30px;
+  font-size: 20px;
   margin: 0;
   padding: 0;
   line-height: 1;
@@ -89,7 +89,7 @@ h6 {
 }
 
 #header .logo img {
-  max-height: 100px;
+  max-height: 75px;
   padding-right: 50px;
 }
 
@@ -1213,12 +1213,15 @@ section {
   transition: 0.3s;
 }
 
+
 .recent-blog-posts .post-item .post-img img {
   transition: 0.5s;
 }
 
 .testim-img {
   border-radius: 5px;
+  margin-bottom: 20px;
+  width: 100%;
 }
 
 .recent-blog-posts .post-item .post-date {
