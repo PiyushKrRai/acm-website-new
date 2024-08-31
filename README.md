@@ -1,7 +1,3 @@
-Here's the updated README for your **acm-website** repository:
-
----
-
 # ACM Website
 
 Welcome to the official repository for the ACM Website! This project serves as the digital presence of the ACM Student Chapter at UEM Jaipur. It is built with modern web design principles to provide a sleek and user-friendly experience.
@@ -63,7 +59,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Author and Maintainer
 
 This project is authored and maintained by **Piyush Kumar Rai**. If you have any questions or need support, feel free to reach out!
-
----
-
-You can further customize this to suit your needs!
