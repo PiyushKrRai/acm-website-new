@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg182"
+   width="571.71716"
+   height="295.6933"
+   viewBox="0 0 571.71716 295.6933"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs186" />
+  <g
+     id="g188"
+     transform="translate(-1523.0441,21.520683)">
+    <g
+       id="g2">
+      <g
+         id="g1">
+        <path
+           style="fill:#73ccf4;fill-opacity:1;stroke-width:5;stroke-opacity:0.992157;paint-order:markers stroke fill"
+           d="m 1740.454,83.09048 -62.5808,-62.58081 -54.1666,54.16658 h 25.2427 l 29.2745,-29.27449 38.7405,38.7405 z"
+           id="path2995" />
+        <path
+           style="fill:#015398;fill-opacity:1;stroke-width:5;stroke-opacity:0.992157;paint-order:markers stroke fill"
+           d="m 1613.89,84.86838 -41.1947,41.19464 42.0712,42.07113 h 23.665 l -41.6329,-41.63289 41.9835,-41.98348 z"
+           id="path2997" />
+        <path
+           style="fill:#6ecaf0;fill-opacity:1;stroke-width:5;stroke-opacity:0.992157;paint-order:markers stroke fill"
+           d="m 1740.454,169.56145 -62.5808,62.58081 -54.1666,-54.16658 h 25.2427 l 29.2745,29.27449 38.7405,-38.7405 z"
+           id="path2999" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:100px;font-family:Impact;-inkscape-font-specification:Impact;fill:#015398;fill-opacity:1;stroke-width:5;stroke-opacity:0.992157;paint-order:markers stroke fill"
+         x="1635.2177"
+         y="152.25371"
+         id="text3005"><tspan
+           id="tspan3003"
+           x="1635.2177"
+           y="152.25371"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#015398;fill-opacity:1">acm</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:74.5808px;font-family:Impact;-inkscape-font-specification:Impact;fill:#73ccf4;fill-opacity:1;stroke-width:3.72904;stroke-opacity:0.992157;paint-order:markers stroke fill"
+         x="1843.9456"
+         y="152.56398"
+         id="text3009"><tspan
+           id="tspan3007"
+           x="1843.9456"
+           y="152.56398"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#73ccf4;fill-opacity:1;stroke-width:3.72904">UEMJ</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:38.7593px;font-family:Impact;-inkscape-font-specification:Impact;fill:#015398;fill-opacity:1;stroke-width:1.93797;stroke-opacity:0.992157;paint-order:markers stroke fill"
+         x="1743.1539"
+         y="196.72752"
+         id="text3013"><tspan
+           id="tspan3011"
+           x="1743.1539"
+           y="196.72752"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#015398;fill-opacity:1;stroke-width:1.93797">Student Chapter</tspan></text>
+    </g>
+  </g>
+</svg>
